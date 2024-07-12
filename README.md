@@ -27,6 +27,7 @@ To explore the Titanic dataset and our analysis, follow these steps:
 ## Contact
 If you have questions, ideas, or collaboration opportunities, feel free to reach out:
 
-aliullah623@gmail.com
-https://www.linkedin.com/in/aliullah623
+- aliullah623@gmail.com
+- https://www.linkedin.com/in/aliullah623
+
 We welcome your input and interest in this project.
